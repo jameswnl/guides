@@ -127,7 +127,7 @@
   If your node version is less than 6, you may need to `brew upgrade node` and `brew link node`.
 
 * Configure and start PostgreSQL
-  * Required PostgreSQL version is 9.4+
+  * Required PostgreSQL version is 9.4, 9.5.
 
   ```bash
   # Enable PostgreSQL on boot
